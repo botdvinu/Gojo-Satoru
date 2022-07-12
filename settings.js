@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['0751416845']
-global.premium = ['0751416845']
-global.ownernomer = '0751416845'
+global.owner = ['94751416845']
+global.premium = ['94751416845']
+global.ownernomer = '94751416845'
 global.ownername = '🐦Vinu'
 global.botname = 'Gojo-Satoru'
 global.footer = '©botvinu.'
